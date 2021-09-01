@@ -11,6 +11,8 @@
 
 <a href="https://github.com/marcelofarias-jr">
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=marcelofarias-jr&count_private=true&show_icons=true&theme=radical"/>
+ <br>
+ <br>
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelofarias-jr&layout=compact&theme=radical"/>
 </a>
 <br>
