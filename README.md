@@ -1,4 +1,4 @@
-<h3>Olá Mundo, eu sou o Marcelo Farias<h3>
+*Olá Mundo, eu sou o Marcelo Farias 🙆‍♂️*
 <br>
 
 📚 Estudante de sistemas da informação.<br>
