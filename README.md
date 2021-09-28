@@ -6,6 +6,9 @@
 <br>
 ☀️ Fortaleza-CE
 <br>
+<p align="center"> Visitas ao perfil </p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/marcelofarias-jr/count.svg" /></p>
+<br>
 <br>
 <br>
 
