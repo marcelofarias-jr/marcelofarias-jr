@@ -3,7 +3,6 @@
 
 📚 Estudante de sistemas da informação.<br>
 💻 Desenvolvedor Front-end em formação. 
-Comecei minha carreira desenvolvendo temas personalizados de WordPress em agência de comunicação, atualmente trabalho com ReactJs/Typescript.
 <br>
 ☀️ Fortaleza-CE
 <br>
