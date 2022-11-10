@@ -2,7 +2,8 @@
 <br>
 
 📚 Estudante de sistemas da informação.<br>
-💻 Desenvolvedor Front-end em formação. 
+💻 Desenvolvedor Front-end em formação.
+Tenho experiência com WordPress(HTML/SCSS/JS/ACF), e React(Typescript, Styled Components, SCSS, Axio, Formik, Hooks, etc).
 <br>
 ☀️ Fortaleza-CE
 <br>
