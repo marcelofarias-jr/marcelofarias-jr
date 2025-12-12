@@ -20,3 +20,4 @@ Atualmente tenho focado mais meus estudos em NextJs.
 <br>
 <br>
   
+<img src="https://visitor-badge.glitch.me/badge?page_id=SEU_REPOSITORIO" alt="Visitantes">
