@@ -2,9 +2,9 @@
 <br>
 
 📚 Estudante de sistemas da informação.<br>
-💻 Desenvolvedor Front-end em formação.
-Tenho experiência com WordPress(HTML/SCSS/JS/ACF), e React(Typescript, Styled Components, SCSS, Axio, Formik, Hooks, Redux, etc).
-Atualmente tenho focado mais meus estudos em NextJs.
+💻 Desenvolvedor Front-end desde 2022.
+Tenho experiência com WordPress(HTML/SCSS/JS/ACF), e React/NextJs(Typescript, Styled Components, SCSS, Axio, Formik, Hooks, Redux, etc).
+Estudando backend com node e um pouco de java.
 <br>
 ☀️ Fortaleza-CE
 <br>
