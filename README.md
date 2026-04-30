@@ -5,6 +5,7 @@
 💻 Meu foco principal é o ecossistema **React/Next.js com TypeScript**, construindo desde sites institucionais até aplicações web completas e escaláveis. Também tenho expertise em **PHP/WordPress** para soluções robustas no universo CMS.
 
 🚀 Atualmente, estou expandindo meus horizontes para o **Back-end** com Node.js e explorando o ecossistema Java, buscando me tornar um profissional **Full-Stack** completo.
+Porfólio: https://portfolio-marcelo-farias.vercel.app/
 
 📍 **Fortaleza, CE**
 
